@@ -1,0 +1,148 @@
+.App {
+  height: 102vh;
+  background-color: #6D9D93;
+  overflow: hidden;
+  font-family: Helvetica;
+  color: #fff;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.Button {
+  background-color: white;
+  border: 0;
+  padding: 10px 20px;
+  color: #6D9D93;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.Field {
+  font-family: Helvetica;
+  font-size: 20px;
+  padding: 5px;
+  background-color: transparent;
+  border-bottom: 2px solid white;
+  border-width: 0 0 2px 0;
+  margin: 10px 0;
+  color: white;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.StartScreen {
+  background: url('./bg.png') center top repeat-x;
+  background-size: contain;
+  height: 100vh;
+}
+
+.StartScreenHeader {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.StartScreenForm {
+  padding: 20px;
+}
+
+.Logo {
+  margin: 100px auto 0 auto;
+}
+
+.Results {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ResultsList {
+  overflow: scroll;
+}
+
+.QuestionsList {
+  whiteSpace: nowrap;
+  height: 100vh;
+}
+
+.Question {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.QuestionTitle {
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.Progress {
+  height: 5px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+
+.ProgressBar {
+  width: 10px;
+  height: 5px;
+  background-color: white;
+  transition: .4s width;
+}
+
+.OptionButton {
+  background-color: transparent;
+  border: none;
+  padding: 10px 20px;
+  padding-left: 40px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  font-size: 14px;
+  margin: 10px 0;
+  position: relative;
+  text-align: left;
+  cursor: pointer;
+}
+
+.OptionButton:hover .OptionButton--inside {
+  background-color: rgba(255,255,255,.5);
+}
+
+.OptionButton:active .OptionButton--inside, .OptionButton--selectedOrCorrect {
+  background-color: white;
+}
+
+.OptionButton--inside {
+  border: solid 3px white;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.OptionButton--correct {
+  color: green;
+}
+
+.OptionButton--incorrect {
+  color: red;
+}

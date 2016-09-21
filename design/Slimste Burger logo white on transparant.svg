@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="85px" viewBox="0 0 90 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Slimste Burger logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="BlendaScript, Blenda Script" font-weight="normal">
+        <g id="Slimste-Burger-logo" fill="#FFFFFF">
+            <text id="de" font-size="13">
+                <tspan x="16" y="18">de </tspan>
+            </text>
+            <text id="Slimste-Burger" font-size="25" line-spacing="24">
+                <tspan x="6" y="44">Slimste</tspan>
+                <tspan x="6" y="68">Burger</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

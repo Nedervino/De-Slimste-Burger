@@ -1,0 +1,17 @@
+testgame_q1:
+  id: 1
+  game_id: 4
+  type: "MultipleChoiceQuestion"
+  title: "Testvraag een?"
+  body: '{"options": %w(1% 2% 3%), "answer": "2%"}'
+  correct_count: 0
+  wrong_count: 0
+
+testgame_q2:
+  id: 2
+  game_id: 4
+  type: "MultipleChoiceQuestion"
+  title: "Testvraag twee?"
+  body: '{"options": %w(100 miljoen 200 miljoen 400 miljoen), "answer": "400 miljoen"}'
+  correct_count: 0
+  wrong_count: 0
