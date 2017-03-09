@@ -3,6 +3,8 @@
 
 http://www.rekenkamer.nl/Nieuws_overzicht/Nieuwsberichten/2016/09/Spel_%E2%80%98Wie_is_de_slimste_burger%E2%80%99_winnaar_eerste_Nederlandse_Accountability_Hack
 
+![alt tag](https://github.com/Nedervino/De-Slimste-Burger/blob/master/images/screen1.png)
+![alt tag](https://github.com/Nedervino/De-Slimste-Burger/blob/master/images/screen2.png)
 
 De Slimste Burger is een spel ontwikkeld voor de AccountabilityHack, georganiseerd door de Algemene Rekenkamer. Het doel van deze hackathon was om de open data die door overheidsinstanties en publieke instellingen gepubliceerd wordt toegankelijker te maken voor de inwoners van Nederland. De Slimste Burger doet dit door deze data te indexeren, hier automatisch vragensets van te genereren, en in een quiz gebaseerd op het spel 'de Slimste Mens' mensen hun kennis te laten pijlen en tegen hun vrienden te laten strijden om wie de slimste burger is. De app won de eerste prijs in de hackathon en is ontwikkeld door Joep Meindertsma, Thom van Kalkeren, Tom Dalenberg, Arthur Dingemans, Jurrian Tromp en Tim Nederveen.
 
