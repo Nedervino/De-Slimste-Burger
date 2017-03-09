@@ -3,6 +3,7 @@
 
 [http://www.rekenkamer.nl/Nieuws_overzicht/Nieuwsberichten/2016/09/Spel_Wie_is_de_slimste_burger_winnaar_eerste_Nederlandse_Accountability_Hack](http://www.rekenkamer.nl/Nieuws_overzicht/Nieuwsberichten/2016/09/Spel_%E2%80%98Wie_is_de_slimste_burger%E2%80%99_winnaar_eerste_Nederlandse_Accountability_Hack)
 
+![alt tag](https://github.com/Nedervino/De-Slimste-Burger/blob/master/images/homescreen.png)
 ![alt tag](https://github.com/Nedervino/De-Slimste-Burger/blob/master/images/screen1.png)
 ![alt tag](https://github.com/Nedervino/De-Slimste-Burger/blob/master/images/screen2.png)
 
